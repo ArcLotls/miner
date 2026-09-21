@@ -2,7 +2,13 @@
 
 Portable ArcLotls miner downloads for Windows x64 and Linux x64, with CUDA, WebGPU, and CPU engines. Wallet signing stays in your browser with MetaMask; every mint requires confirmation.
 
-Download the platform archive and matching SHA-256 file from [Releases](https://github.com/ArcLotls/miner/releases). Preview versions are marked prerelease. Follow [START-HERE.md](START-HERE.md) and check [COMPATIBILITY.md](COMPATIBILITY.md) before running.
+**Unsigned prerelease · 0.1.0-preview.2**
+
+- [Windows x64 download](https://github.com/ArcLotls/miner/releases/download/miner-v0.1.0-preview.2/arclotls-miner-0.1.0-preview.2-windows-x64.zip) · [SHA-256 checksum](https://github.com/ArcLotls/miner/releases/download/miner-v0.1.0-preview.2/arclotls-miner-0.1.0-preview.2-windows-x64.zip.sha256)
+- [Linux x64 download](https://github.com/ArcLotls/miner/releases/download/miner-v0.1.0-preview.2/arclotls-miner-0.1.0-preview.2-linux-x64.tar.gz) · [SHA-256 checksum](https://github.com/ArcLotls/miner/releases/download/miner-v0.1.0-preview.2/arclotls-miner-0.1.0-preview.2-linux-x64.tar.gz.sha256)
+- [Getting started](START-HERE.md) · [Compatibility and hardware limitations](COMPATIBILITY.md) · [All releases](https://github.com/ArcLotls/miner/releases)
+
+Check compatibility and verify the archive checksum before extracting and running. Broader hardware validation remains pending.
 
 No Node.js, pnpm, compiler, or CUDA toolkit installation is required. You provide a compatible graphics driver and a browser with MetaMask. The miner defaults to Arc mainnet and native USDC payment; mint payments and gas are separate from any mining rewards.
 
